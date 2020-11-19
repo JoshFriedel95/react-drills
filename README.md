@@ -13,7 +13,7 @@ Once you get to the point where you no longer have to look at the solutions and/
 Good Luck!
 
 ## Setup
-
+ 
 To help speed up the process of moving from app to app we have provided a bunch of `app-#/` folders that have been created using the `create-react-app` CLI. That way you just have to run `npm install` instead of waiting for `create-react-app`.
 
 - Run `npm install` in each `app-#/` folder before starting the
